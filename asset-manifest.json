@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alexss2087.github.io/static/css/main.d1a61f3d.chunk.css",
+    "main.js": "/alexss2087.github.io/static/js/main.0a14f94a.chunk.js",
+    "main.js.map": "/alexss2087.github.io/static/js/main.0a14f94a.chunk.js.map",
+    "runtime-main.js": "/alexss2087.github.io/static/js/runtime-main.e27dce74.js",
+    "runtime-main.js.map": "/alexss2087.github.io/static/js/runtime-main.e27dce74.js.map",
+    "static/js/2.b68f3224.chunk.js": "/alexss2087.github.io/static/js/2.b68f3224.chunk.js",
+    "static/js/2.b68f3224.chunk.js.map": "/alexss2087.github.io/static/js/2.b68f3224.chunk.js.map",
+    "static/js/3.d98f9fee.chunk.js": "/alexss2087.github.io/static/js/3.d98f9fee.chunk.js",
+    "static/js/3.d98f9fee.chunk.js.map": "/alexss2087.github.io/static/js/3.d98f9fee.chunk.js.map",
+    "index.html": "/alexss2087.github.io/index.html",
+    "static/css/main.d1a61f3d.chunk.css.map": "/alexss2087.github.io/static/css/main.d1a61f3d.chunk.css.map",
+    "static/js/2.b68f3224.chunk.js.LICENSE.txt": "/alexss2087.github.io/static/js/2.b68f3224.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e27dce74.js",
+    "static/js/2.b68f3224.chunk.js",
+    "static/css/main.d1a61f3d.chunk.css",
+    "static/js/main.0a14f94a.chunk.js"
+  ]
+}
